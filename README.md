@@ -7,7 +7,7 @@
 | colab | Info - Model Page
 | --- | --- |
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text-generation-webui-colab/blob/main/vicuna-13b-GPTQ-4bit-128g.ipynb) | vicuna-13b-GPTQ-4bit-128g <br /> https://vicuna.lmsys.org
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text-generation-webui-colab/blob/pro/gpt4-x-alpaca-13b-native-4bit-128g.ipynb) | gpt4-x-alpaca-13b-native-4bit-128g <br /> https://crfm.stanford.edu/2023/03/13/alpaca.html <br />
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text-generation-webui-colab/blob/main/gpt4-x-alpaca-13b-native-4bit-128g.ipynb) | gpt4-x-alpaca-13b-native-4bit-128g <br /> https://crfm.stanford.edu/2023/03/13/alpaca.html <br />
 
 ## 🦒 Colab Pro
 According to the Facebook Research LLaMA license (Non-commercial bespoke license), maybe we cannot use this model with a Colab Pro account.
