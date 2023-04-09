@@ -20,5 +20,5 @@ vicuna-13b-GPTQ-4bit-128g | From https://vicuna.lmsys.org: The online demo is a 
 Thanks to facebookresearch ❤ for https://github.com/facebookresearch/llama <br />
 Thanks to lmsys ❤ for https://huggingface.co/lmsys/vicuna-13b-delta-v0 <br />
 Thanks to anon8231489123 ❤ for https://huggingface.co/anon8231489123/vicuna-13b-GPTQ-4bit-128g (GPTQ 4bit quantization of: https://huggingface.co/lmsys/vicuna-13b-delta-v0) <br />
-Thanks to huggingface ❤ for https://github.com/huggingface/transformers <br />
+Thanks to transformers ❤ for https://github.com/huggingface/transformers <br />
 Thanks to gradio-app ❤ for https://github.com/gradio-app/gradio <br />
