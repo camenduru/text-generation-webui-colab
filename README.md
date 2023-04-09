@@ -9,8 +9,8 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text-generation-webui-colab/blob/main/vicuna-13b-GPTQ-4bit-128g.ipynb) | vicuna-13b-GPTQ-4bit-128g <br /> https://vicuna.lmsys.org (recommended)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text-generation-webui-colab/blob/main/gpt4-x-alpaca-13b-native-4bit-128g.ipynb) | gpt4-x-alpaca-13b-native-4bit-128g <br /> https://crfm.stanford.edu/2023/03/13/alpaca.html <br /> This model doesn't work with Free T4 GPU 😭
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text-generation-webui-colab/blob/main/alpaca-7b-native-4bit.ipynb) | alpaca-7b-native-4bit <br /> https://github.com/tatsu-lab/stanford_alpaca
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text-generation-webui-colab/blob/main/llama-13b-3bit-gr128.ipynb) | llama-13b-3bit-gr128 <br /> https://github.com/facebookresearch/llama
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text-generation-webui-colab/blob/main/llama-13b-4bit-gr128.ipynb) | llama-13b-4bit-gr128 <br /> https://github.com/facebookresearch/llama
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text-generation-webui-colab/blob/main/llama-13b-3bit-gr128.ipynb) | llama-13b-3bit-gr128 <br /> https://github.com/facebookresearch/llama This model doesn't work with Free T4 GPU 😭
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text-generation-webui-colab/blob/main/llama-13b-4bit-gr128.ipynb) | llama-13b-4bit-gr128 <br /> https://github.com/facebookresearch/llama This model doesn't work with Free T4 GPU 😭
 
 
 ## Text Generation Web UI
@@ -34,3 +34,4 @@ Thanks to anon8231489123 ❤ for https://huggingface.co/anon8231489123/gpt4-x-al
 Thanks to huggingface ❤ for https://github.com/huggingface/transformers <br />
 Thanks to gradio-app ❤ for https://github.com/gradio-app/gradio <br />
 Thanks to ozcur ❤ for https://huggingface.co/ozcur/alpaca-native-4bit (GPTQ 4bit quantization of: https://huggingface.co/chavinlo/alpaca-native)  <br />
+Thanks to wcde ❤ for https://huggingface.co/wcde/llama-13b-4bit-gr128 (GPTQ 4bit quantization of: https://huggingface.co/decapoda-research/llama-13b-hf)  <br />
