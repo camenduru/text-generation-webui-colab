@@ -9,8 +9,9 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text-generation-webui-colab/blob/main/vicuna-13b-GPTQ-4bit-128g.ipynb) | vicuna-13b-GPTQ-4bit-128g <br /> https://vicuna.lmsys.org
 
 ## 🦒 Colab Pro
-https://github.com/camenduru/text-generation-webui-colab/tree/pro
-![image](https://user-images.githubusercontent.com/54370274/230761295-92f43cce-f3c7-4c68-8406-e5c0635352c2.png)
+According to the Facebook Research LLaMA license (Non-commercial bespoke license), maybe we cannot use this model with a Colab Pro account.
+But Yann LeCun said "GPL v3" (https://twitter.com/ylecun/status/1629189925089296386) I am a little confused. Is it possible to use this with a non-free Colab Pro account?
+If [Yes](https://github.com/camenduru/text-generation-webui-colab/tree/pro) 
 
 ## Text Generation Web UI
 [https://github.com/oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) (Thanks to @oobabooga ❤)
