@@ -30,3 +30,4 @@ Thanks to anon8231489123 ❤ for https://huggingface.co/anon8231489123/vicuna-13
 Thanks to anon8231489123 ❤ for https://huggingface.co/anon8231489123/gpt4-x-alpaca-13b-native-4bit-128g (GPTQ 4bit quantization of: https://huggingface.co/chavinlo/gpt4-x-alpaca) <br />
 Thanks to huggingface ❤ for https://github.com/huggingface/transformers <br />
 Thanks to gradio-app ❤ for https://github.com/gradio-app/gradio <br />
+Thanks to ozcur ❤ for https://huggingface.co/ozcur/alpaca-native-4bit (GPTQ 4bit quantization of: https://huggingface.co/chavinlo/alpaca-native)  <br />
