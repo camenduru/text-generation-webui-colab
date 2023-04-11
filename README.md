@@ -29,6 +29,7 @@ Thanks to lmsys ❤ for https://huggingface.co/lmsys/vicuna-13b-delta-v0 <br />
 Thanks to anon8231489123 ❤ for https://huggingface.co/anon8231489123/vicuna-13b-GPTQ-4bit-128g (GPTQ 4bit quantization of: https://huggingface.co/lmsys/vicuna-13b-delta-v0) <br />
 Thanks to tatsu-lab ❤ for https://github.com/tatsu-lab/stanford_alpaca <br />
 Thanks to chavinlo ❤ for https://huggingface.co/chavinlo/gpt4-x-alpaca <br />
+Thanks to qwopqwop200 ❤ for https://github.com/qwopqwop200/GPTQ-for-LLaMa <br />
 Thanks to tsumeone ❤ for https://huggingface.co/tsumeone/gpt4-x-alpaca-13b-native-4bit-128g-cuda (GPTQ 4bit quantization of: https://huggingface.co/chavinlo/gpt4-x-alpaca) <br />
 Thanks to transformers ❤ for https://github.com/huggingface/transformers <br />
 Thanks to gradio-app ❤ for https://github.com/gradio-app/gradio <br />
