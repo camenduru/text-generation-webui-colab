@@ -37,3 +37,4 @@ Thanks to qwopqwop200 ❤ for https://github.com/qwopqwop200/GPTQ-for-LLaMa <br 
 Thanks to tsumeone ❤ for https://huggingface.co/tsumeone/gpt4-x-alpaca-13b-native-4bit-128g-cuda (GPTQ 4bit quantization of: https://huggingface.co/chavinlo/gpt4-x-alpaca) <br />
 Thanks to transformers ❤ for https://github.com/huggingface/transformers <br />
 Thanks to gradio-app ❤ for https://github.com/gradio-app/gradio <br />
+Thanks to TheBloke ❤ for https://huggingface.co/TheBloke/stable-vicuna-13B-GPTQ <br />
