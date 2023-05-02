@@ -9,7 +9,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text-generation-webui-colab/blob/main/vicuna-13b-GPTQ-4bit-128g.ipynb) | vicuna-13b-GPTQ-4bit-128g <br /> https://vicuna.lmsys.org
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text-generation-webui-colab/blob/main/vicuna-13B-1.1-GPTQ-4bit-128g.ipynb) | vicuna-13B-1.1-GPTQ-4bit-128g <br /> https://vicuna.lmsys.org
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text-generation-webui-colab/blob/main/stable-vicuna-13B-GPTQ-4bit-128g.ipynb) | stable-vicuna-13B-GPTQ-4bit-128g <br /> https://huggingface.co/CarperAI/stable-vicuna-13b-delta
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text-generation-webui-colab/blob/main/pyg-7b-4bit-128g.ipynb) | pyg-7b-4bit-128g <br /> https://huggingface.co/Neko-Institute-of-Science/pygmalion-7b
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text-generation-webui-colab/blob/main/pyg-7b-GPTQ-4bit-128g.ipynb) | pyg-7b-GPTQ-4bit-128g <br /> https://huggingface.co/Neko-Institute-of-Science/pygmalion-7b
 
 ## 🦒 Colab Pro
 According to the Facebook Research LLaMA license (Non-commercial bespoke license), maybe we cannot use this model with a Colab Pro account.
