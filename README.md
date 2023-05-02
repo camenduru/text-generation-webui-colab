@@ -13,7 +13,6 @@
 ## 🦒 Colab Pro
 According to the Facebook Research LLaMA license (Non-commercial bespoke license), maybe we cannot use this model with a Colab Pro account.
 But Yann LeCun said "GPL v3" (https://twitter.com/ylecun/status/1629189925089296386) I am a little confused. Is it possible to use this with a non-free Colab Pro account?
-If [Yes](https://github.com/camenduru/text-generation-webui-colab/tree/pro) 
 
 ## Tutorial
 https://www.youtube.com/watch?v=kgA7eKU1XuA
