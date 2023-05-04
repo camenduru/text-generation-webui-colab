@@ -11,6 +11,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text-generation-webui-colab/blob/main/stable-vicuna-13B-GPTQ-4bit-128g.ipynb) | stable-vicuna-13B-GPTQ-4bit-128g <br /> https://huggingface.co/CarperAI/stable-vicuna-13b-delta
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text-generation-webui-colab/blob/main/gpt4-x-alpaca-13b-native-4bit-128g.ipynb) | gpt4-x-alpaca-13b-native-4bit-128g <br /> https://huggingface.co/chavinlo/gpt4-x-alpaca
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text-generation-webui-colab/blob/main/pyg-7b-GPTQ-4bit-128g.ipynb) | pyg-7b-GPTQ-4bit-128g <br /> https://huggingface.co/Neko-Institute-of-Science/pygmalion-7b
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text-generation-webui-colab/blob/main/koala-13B-GPTQ-4bit-128g.ipynb) | koala-13B-GPTQ-4bit-128g <br /> https://bair.berkeley.edu/blog/2023/04/03/koala
 
 ## 🦒 Colab Pro
 According to the Facebook Research LLaMA license (Non-commercial bespoke license), maybe we cannot use this model with a Colab Pro account.
@@ -41,3 +42,5 @@ Thanks to gradio-app ❤ for https://github.com/gradio-app/gradio <br />
 Thanks to TheBloke ❤ for https://huggingface.co/TheBloke/stable-vicuna-13B-GPTQ <br />
 Thanks to Neko-Institute-of-Science ❤ for https://huggingface.co/Neko-Institute-of-Science/pygmalion-7b <br />
 Thanks to gozfarb ❤ for https://huggingface.co/gozfarb/pygmalion-7b-4bit-128g-cuda (GPTQ 4bit quantization of: https://huggingface.co/Neko-Institute-of-Science/pygmalion-7b) <br />
+Thanks to young-geng ❤ for https://huggingface.co/young-geng/koala <br />
+Thanks to TheBloke ❤ for https://huggingface.co/TheBloke/koala-13B-GPTQ-4bit-128g (GPTQ 4bit quantization of: https://huggingface.co/young-geng/koala) <br />
