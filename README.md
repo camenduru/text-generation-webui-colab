@@ -12,6 +12,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text-generation-webui-colab/blob/main/gpt4-x-alpaca-13b-native-4bit-128g.ipynb) | gpt4-x-alpaca-13b-native-4bit-128g <br /> https://huggingface.co/chavinlo/gpt4-x-alpaca
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text-generation-webui-colab/blob/main/pyg-7b-GPTQ-4bit-128g.ipynb) | pyg-7b-GPTQ-4bit-128g <br /> https://huggingface.co/Neko-Institute-of-Science/pygmalion-7b
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text-generation-webui-colab/blob/main/koala-13B-GPTQ-4bit-128g.ipynb) | koala-13B-GPTQ-4bit-128g <br /> https://bair.berkeley.edu/blog/2023/04/03/koala
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text-generation-webui-colab/blob/main/oasst-llama13b-GPTQ-4bit-128g.ipynb) | oasst-llama13b-GPTQ-4bit-128g <br /> https://open-assistant.io
 
 ## 🦒 Colab Pro
 According to the Facebook Research LLaMA license (Non-commercial bespoke license), maybe we cannot use this model with a Colab Pro account.
