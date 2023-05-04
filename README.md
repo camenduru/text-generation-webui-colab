@@ -45,3 +45,5 @@ Thanks to Neko-Institute-of-Science ❤ for https://huggingface.co/Neko-Institut
 Thanks to gozfarb ❤ for https://huggingface.co/gozfarb/pygmalion-7b-4bit-128g-cuda (GPTQ 4bit quantization of: https://huggingface.co/Neko-Institute-of-Science/pygmalion-7b) <br />
 Thanks to young-geng ❤ for https://huggingface.co/young-geng/koala <br />
 Thanks to TheBloke ❤ for https://huggingface.co/TheBloke/koala-13B-GPTQ-4bit-128g (GPTQ 4bit quantization of: https://huggingface.co/young-geng/koala) <br />
+Thanks to dvruette ❤ for https://huggingface.co/dvruette/oasst-llama-13b-2-epochs <br />
+Thanks to gozfarb ❤ for https://huggingface.co/gozfarb/oasst-llama13b-4bit-128g (GPTQ 4bit quantization of: https://huggingface.co/dvruette/oasst-llama-13b-2-epochs) <br />
