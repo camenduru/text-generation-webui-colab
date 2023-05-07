@@ -15,8 +15,6 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text-generation-webui-colab/blob/main/oasst-llama13b-GPTQ-4bit-128g.ipynb) | oasst-llama13b-GPTQ-4bit-128g <br /> https://open-assistant.io
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text-generation-webui-colab/blob/main/wizard-lm-uncensored-7b-GPTQ-4bit-128g.ipynb) | wizard-lm-uncensored-7b-GPTQ-4bit-128g <br /> https://github.com/nlpxucan/WizardLM
 
-https://huggingface.co/TheBloke/WizardLM-7B-uncensored-GPTQ
-
 ## 🦒 Colab Pro
 According to the Facebook Research LLaMA license (Non-commercial bespoke license), maybe we cannot use this model with a Colab Pro account.
 But Yann LeCun said "GPL v3" (https://twitter.com/ylecun/status/1629189925089296386) I am a little confused. Is it possible to use this with a non-free Colab Pro account?
