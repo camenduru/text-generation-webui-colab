@@ -50,8 +50,9 @@ Thanks to young-geng ❤ for https://huggingface.co/young-geng/koala <br />
 Thanks to TheBloke ❤ for https://huggingface.co/TheBloke/koala-13B-GPTQ-4bit-128g (GPTQ 4bit quantization of: https://huggingface.co/young-geng/koala) <br />
 Thanks to dvruette ❤ for https://huggingface.co/dvruette/oasst-llama-13b-2-epochs <br />
 Thanks to gozfarb ❤ for https://huggingface.co/gozfarb/oasst-llama13b-4bit-128g (GPTQ 4bit quantization of: https://huggingface.co/dvruette/oasst-llama-13b-2-epochs) <br />
-Thanks to dvruette ❤ for https://huggingface.co/ehartford/WizardLM-7B-Uncensored <br />
+Thanks to ehartford ❤ for https://huggingface.co/ehartford/WizardLM-7B-Uncensored <br />
 Thanks to TheBloke ❤ for https://huggingface.co/TheBloke/WizardLM-7B-uncensored-GPTQ (GPTQ 4bit quantization of: https://huggingface.co/ehartford/WizardLM-7B-Uncensored) <br />
 Thanks to mosaicml ❤ for https://huggingface.co/mosaicml/mpt-7b-storywriter <br />
 Thanks to OccamRazor ❤ for https://huggingface.co/OccamRazor/mpt-7b-storywriter-4bit-128g (GPTQ 4bit quantization of: https://huggingface.co/mosaicml/mpt-7b-storywriter) <br />
-Thanks to TheBloke ❤ for https://huggingface.co/ausboss/WizardLM-13B-Uncensored-4bit-128g (GPTQ 4bit quantization of: https://huggingface.co/ehartford/WizardLM-13B-Uncensored) <br />
+Thanks to ehartford ❤ for https://huggingface.co/ehartford/WizardLM-13B-Uncensored <br />
+Thanks to ausboss ❤ for https://huggingface.co/ausboss/WizardLM-13B-Uncensored-4bit-128g (GPTQ 4bit quantization of: https://huggingface.co/ehartford/WizardLM-13B-Uncensored) <br />
