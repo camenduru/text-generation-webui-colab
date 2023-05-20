@@ -16,6 +16,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text-generation-webui-colab/blob/main/wizard-lm-uncensored-7b-GPTQ-4bit-128g.ipynb) | wizard-lm-uncensored-7b-GPTQ-4bit-128g <br /> https://github.com/nlpxucan/WizardLM
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text-generation-webui-colab/blob/main/mpt-storywriter-7b-GPTQ-4bit-128g.ipynb) | mpt-storywriter-7b-GPTQ-4bit-128g <br /> https://www.mosaicml.com
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text-generation-webui-colab/blob/main/wizard-lm-uncensored-13b-GPTQ-4bit-128g.ipynb) | wizard-lm-uncensored-13b-GPTQ-4bit-128g <br /> https://github.com/nlpxucan/WizardLM
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text-generation-webui-colab/blob/main/pyg-13b-GPTQ-4bit-128g.ipynb) | pyg-13b-GPTQ-4bit-128g <br /> https://huggingface.co/PygmalionAI/pygmalion-13b
 
 ## 🦒 Colab Pro
 According to the Facebook Research LLaMA license (Non-commercial bespoke license), maybe we cannot use this model with a Colab Pro account.
@@ -56,3 +57,5 @@ Thanks to mosaicml ❤ for https://huggingface.co/mosaicml/mpt-7b-storywriter <b
 Thanks to OccamRazor ❤ for https://huggingface.co/OccamRazor/mpt-7b-storywriter-4bit-128g (GPTQ 4bit quantization of: https://huggingface.co/mosaicml/mpt-7b-storywriter) <br />
 Thanks to ehartford ❤ for https://huggingface.co/ehartford/WizardLM-13B-Uncensored <br />
 Thanks to ausboss ❤ for https://huggingface.co/ausboss/WizardLM-13B-Uncensored-4bit-128g (GPTQ 4bit quantization of: https://huggingface.co/ehartford/WizardLM-13B-Uncensored) <br />
+Thanks to PygmalionAI ❤ for https://huggingface.co/PygmalionAI/pygmalion-13b <br />
+Thanks to notstoic ❤ for https://huggingface.co/notstoic/pygmalion-13b-4bit-128g (GPTQ 4bit quantization of: https://huggingface.co/PygmalionAI/pygmalion-13b) <br />
