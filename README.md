@@ -6,7 +6,6 @@
 ## 🦒 Colab
 | colab | Info - Model Page
 | --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text-generation-webui-colab/blob/main/falcon-7b-instruct-GPTQ-4bit.ipynb) | falcon-7b-instruct-GPTQ-4bit <br /> https://falconllm.tii.ae/
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text-generation-webui-colab/blob/main/vicuna-13b-GPTQ-4bit-128g.ipynb) | vicuna-13b-GPTQ-4bit-128g <br /> https://vicuna.lmsys.org
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text-generation-webui-colab/blob/main/vicuna-13B-1.1-GPTQ-4bit-128g.ipynb) | vicuna-13B-1.1-GPTQ-4bit-128g <br /> https://vicuna.lmsys.org
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text-generation-webui-colab/blob/main/stable-vicuna-13B-GPTQ-4bit-128g.ipynb) | stable-vicuna-13B-GPTQ-4bit-128g <br /> https://huggingface.co/CarperAI/stable-vicuna-13b-delta
@@ -18,6 +17,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text-generation-webui-colab/blob/main/mpt-storywriter-7b-GPTQ-4bit-128g.ipynb) | mpt-storywriter-7b-GPTQ-4bit-128g <br /> https://www.mosaicml.com
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text-generation-webui-colab/blob/main/wizard-lm-uncensored-13b-GPTQ-4bit-128g.ipynb) | wizard-lm-uncensored-13b-GPTQ-4bit-128g <br /> https://github.com/nlpxucan/WizardLM
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text-generation-webui-colab/blob/main/pyg-13b-GPTQ-4bit-128g.ipynb) | pyg-13b-GPTQ-4bit-128g <br /> https://huggingface.co/PygmalionAI/pygmalion-13b
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text-generation-webui-colab/blob/main/falcon-7b-instruct-GPTQ-4bit.ipynb) | falcon-7b-instruct-GPTQ-4bit <br /> https://falconllm.tii.ae/
 
 ## 🦒 Colab Pro
 According to the Facebook Research LLaMA license (Non-commercial bespoke license), maybe we cannot use this model with a Colab Pro account.
