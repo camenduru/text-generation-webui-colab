@@ -21,7 +21,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text-generation-webui-colab/blob/main/falcon-7b-instruct-GPTQ-4bit.ipynb) | falcon-7b-instruct-GPTQ-4bit <br /> https://falconllm.tii.ae/
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text-generation-webui-colab/blob/main/wizard-lm-13b-1.1-GPTQ-4bit-128g.ipynb) | wizard-lm-13b-1.1-GPTQ-4bit-128g <br /> https://github.com/nlpxucan/WizardLM
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text-generation-webui-colab/blob/main/llama-2-7b-chat-GPTQ-4bit.ipynb) | llama-2-7b-chat-GPTQ-4bit <br /> https://ai.meta.com/llama/
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text-generation-webui-colab/blob/main/llama-2-13b-chat-GPTQ-4bit.ipynb) | llama-2-13b-chat-GPTQ-4bit <br /> https://ai.meta.com/llama/
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text-generation-webui-colab/blob/main/llama-2-13b-chat-GPTQ-4bit.ipynb) | llama-2-13b-chat-GPTQ-4bit <br /> https://ai.meta.com/llama/ (🚦 WIP 🚦 please try llama-2-7b-chat-GPTQ-4bit)
 
 ## 🦒 Colab Pro
 According to the Facebook Research LLaMA license (Non-commercial bespoke license), maybe we cannot use this model with a Colab Pro account.
