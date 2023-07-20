@@ -24,6 +24,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text-generation-webui-colab/blob/main/llama-2-13b-chat-GPTQ-4bit.ipynb) | llama-2-13b-chat-GPTQ-4bit (4bit) <br /> https://ai.meta.com/llama/ <br /> 🚦 WIP 🚦 please try llama-2-13b-chat or llama-2-7b-chat or llama-2-7b-chat-GPTQ-4bit
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text-generation-webui-colab/blob/main/llama-2-7b-chat.ipynb) | llama-2-7b-chat (16bit) <br /> https://ai.meta.com/llama/
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text-generation-webui-colab/blob/main/llama-2-13b-chat.ipynb) | llama-2-13b-chat (8bit) <br /> https://ai.meta.com/llama/
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text-generation-webui-colab/blob/main/redmond-puffin-13b-GPTQ-4bit.ipynb) | redmond-puffin-13b-GPTQ-4bit (4bit) <br /> https://huggingface.co/NousResearch/Redmond-Puffin-13B
 
 ## 🦒 Colab Pro
 According to the Facebook Research LLaMA license (Non-commercial bespoke license), maybe we cannot use this model with a Colab Pro account.
@@ -73,3 +74,5 @@ Thanks to meta-llama ❤ for https://huggingface.co/meta-llama/Llama-2-7b-chat-h
 Thanks to TheBloke ❤ for https://huggingface.co/TheBloke/Llama-2-7b-Chat-GPTQ (GPTQ 4bit quantization of: https://huggingface.co/meta-llama/Llama-2-7b-chat-hf) <br />
 Thanks to meta-llama ❤ for https://huggingface.co/meta-llama/Llama-2-13b-chat-hf <br />
 Thanks to localmodels ❤ for https://huggingface.co/localmodels/Llama-2-13B-Chat-GPTQ (GPTQ 4bit quantization of: https://huggingface.co/meta-llama/Llama-2-13b-chat-hf) <br />
+Thanks to NousResearch ❤ for https://huggingface.co/NousResearch/Redmond-Puffin-13B <br />
+Thanks to TheBloke ❤ for https://huggingface.co/TheBloke/Redmond-Puffin-13B-GPTQ (GPTQ 4bit quantization of: https://huggingface.co/NousResearch/Redmond-Puffin-13B) <br />
