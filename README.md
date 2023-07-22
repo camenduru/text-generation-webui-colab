@@ -25,6 +25,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text-generation-webui-colab/blob/main/llama-2-7b-chat.ipynb) | llama-2-7b-chat (16bit) <br /> https://ai.meta.com/llama/
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text-generation-webui-colab/blob/main/llama-2-13b-chat.ipynb) | llama-2-13b-chat (8bit) <br /> https://ai.meta.com/llama/
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text-generation-webui-colab/blob/main/redmond-puffin-13b-GPTQ-4bit.ipynb) | redmond-puffin-13b-GPTQ-4bit (4bit) <br /> https://huggingface.co/NousResearch/Redmond-Puffin-13B
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text-generation-webui-colab/blob/main/nous-hermes-13b-GPTQ-4bit.ipynb) | nous-hermes-13b-GPTQ-4bit (4bit) <br /> https://huggingface.co/NousResearch/Nous-Hermes-Llama2-13b
 
 ## 🦒 Colab Pro
 According to the Facebook Research LLaMA license (Non-commercial bespoke license), maybe we cannot use this model with a Colab Pro account.
