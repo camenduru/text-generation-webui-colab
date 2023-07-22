@@ -77,3 +77,4 @@ Thanks to meta-llama ❤ for https://huggingface.co/meta-llama/Llama-2-13b-chat-
 Thanks to localmodels ❤ for https://huggingface.co/localmodels/Llama-2-13B-Chat-GPTQ (GPTQ 4bit quantization of: https://huggingface.co/meta-llama/Llama-2-13b-chat-hf) <br />
 Thanks to NousResearch ❤ for https://huggingface.co/NousResearch/Redmond-Puffin-13B <br />
 Thanks to TheBloke ❤ for https://huggingface.co/TheBloke/Redmond-Puffin-13B-GPTQ (GPTQ 4bit quantization of: https://huggingface.co/NousResearch/Redmond-Puffin-13B) <br />
+Thanks to NousResearch ❤ for https://huggingface.co/NousResearch/Nous-Hermes-Llama2-13b (GPTQ 4bit quantization https://huggingface.co/NousResearch/Nous-Hermes-Llama2-13b-GPTQ)<br /> 
