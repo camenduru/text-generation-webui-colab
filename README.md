@@ -38,6 +38,9 @@ But Yann LeCun said "GPL v3" (https://twitter.com/ylecun/status/1629189925089296
 ## Tutorial
 https://www.youtube.com/watch?v=kgA7eKU1XuA
 
+#### ⚠ If you encounter an `IndexError: list index out of range` error, please set the models instruction template.
+![Screenshot 2023-08-28 165206](https://github.com/camenduru/text-generation-webui-colab/assets/54370274/7f619737-eb3e-4368-9b03-65836d1207f0)
+
 ## Text Generation Web UI
 [https://github.com/oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) (Thanks to @oobabooga ❤)
 
