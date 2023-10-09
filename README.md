@@ -30,6 +30,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text-generation-webui-colab/blob/main/code-llama-7b.ipynb) | code-llama-7b (16bit) <br /> https://github.com/facebookresearch/codellama
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text-generation-webui-colab/blob/main/code-llama-instruct-7b.ipynb) | code-llama-instruct-7b (16bit) <br /> https://github.com/facebookresearch/codellama
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text-generation-webui-colab/blob/main/code-llama-python-7b.ipynb) | code-llama-python-7b (16bit) <br /> https://github.com/facebookresearch/codellama
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text-generation-webui-colab/blob/main/mistral-7b-Instruct-v0.1-8bit.ipynb) | mistral-7b-Instruct-v0.1-8bit (8bit) <br /> https://mistral.ai/
 
 ## 🦒 Colab Pro
 According to the Facebook Research LLaMA license (Non-commercial bespoke license), maybe we cannot use this model with a Colab Pro account.
@@ -89,7 +90,7 @@ Thanks to MetaAI ❤ for https://ai.meta.com/research/publications/code-llama-op
 Thanks to TheBloke ❤ for https://huggingface.co/TheBloke/CodeLlama-7B-fp16 <br />
 Thanks to TheBloke ❤ for https://huggingface.co/TheBloke/CodeLlama-7B-Instruct-fp16 <br />
 Thanks to TheBloke ❤ for https://huggingface.co/TheBloke/CodeLlama-7B-Python-fp16 <br />
-
+Thanks to MistralAI ❤ for https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.1 <br />
 
 ## Medical Advice Disclaimer
 DISCLAIMER: THIS WEBSITE DOES NOT PROVIDE MEDICAL ADVICE
