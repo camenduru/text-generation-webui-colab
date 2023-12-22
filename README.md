@@ -31,7 +31,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text-generation-webui-colab/blob/main/code-llama-instruct-7b.ipynb) | code-llama-instruct-7b (16bit) <br /> https://github.com/facebookresearch/codellama
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text-generation-webui-colab/blob/main/code-llama-python-7b.ipynb) | code-llama-python-7b (16bit) <br /> https://github.com/facebookresearch/codellama
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text-generation-webui-colab/blob/main/mistral-7b-Instruct-v0.1-8bit.ipynb) | mistral-7b-Instruct-v0.1-8bit (8bit) <br /> https://mistral.ai/
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text-generation-webui-colab/blob/main/mytho-max-l2-13b-GPTQ.ipynb) | mytho-max-l2-13b-GPTQ (8bit) <br /> https://huggingface.co/Gryphe/MythoMax-L2-13b
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text-generation-webui-colab/blob/main/mytho-max-l2-13b-GPTQ.ipynb) | mytho-max-l2-13b-GPTQ (4bit) <br /> https://huggingface.co/Gryphe/MythoMax-L2-13b
 
 ## 🦒 Colab Pro
 According to the Facebook Research LLaMA license (Non-commercial bespoke license), maybe we cannot use this model with a Colab Pro account.
@@ -93,7 +93,7 @@ Thanks to TheBloke ❤ for https://huggingface.co/TheBloke/CodeLlama-7B-Instruct
 Thanks to TheBloke ❤ for https://huggingface.co/TheBloke/CodeLlama-7B-Python-fp16 <br />
 Thanks to MistralAI ❤ for https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.1 <br />
 Thanks to Gryphe ❤ for https://huggingface.co/Gryphe/MythoMax-L2-13b <br />
-Thanks to TheBloke ❤ for https://huggingface.co/TheBloke/MythoMax-L2-13B-GPTQ <br />
+Thanks to TheBloke ❤ for https://huggingface.co/TheBloke/MythoMax-L2-13B-GPTQ (GPTQ 4bit quantization of: https://huggingface.co/Gryphe/MythoMax-L2-13b)<br />
 
 ## Medical Advice Disclaimer
 DISCLAIMER: THIS WEBSITE DOES NOT PROVIDE MEDICAL ADVICE
